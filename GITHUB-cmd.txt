@@ -38,7 +38,7 @@ COMANDOS GITHUB - POR Dev Aprender (https://www.youtube.com/watch?v=kB5e-gTAl_s&
 	git checkout -b nome-da-branch master - esse comando cria a branch nome-da-branch, com base na branch master
 				e ja loga nela. Seria o git checkout + o git branch nome-da-branch juntos.
 	touch .gitignore - cria o arquivo gitignore onde serao listadas pastar e arquivos que nao serao enviados.
-				
+	git clone - clona repositorio para a maquina local.			
 	
 
 3 - Passos para trabalhar em equipe com git+github (boas praticas).
@@ -54,6 +54,7 @@ COMANDOS GITHUB - POR Dev Aprender (https://www.youtube.com/watch?v=kB5e-gTAl_s&
 	7 - Mergiar (unir) o codigo da branch em trabalho com a branch principal (depois de testar).
 	8 - git push da branch principal.
 	
+	Essa é a segunda versao do arquivo criada em 22/08/22 18:12
 	FINAL DO CURSO - GIT+GITHUB
 	
 	
